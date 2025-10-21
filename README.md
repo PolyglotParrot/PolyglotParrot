@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💻 Aspiring Full-Stack Developer | Exploring Web Development & ML/AI 🚀
+  💻 Full-Stack Developer | Exploring Web Development & ML/AI
 </p>
 
 ---
