@@ -2,7 +2,7 @@
 
 ![nostalgic](https://github.com/user-attachments/assets/32c3f327-9379-4476-80eb-1b0ad618de62)
 
-<p align="center"> <i> visit what I’ve been coding lately:: </i> <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a> </p>
+<p align="center"> <i> Visit what I’ve been coding lately: </i> <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a> </p>
 
 
 
