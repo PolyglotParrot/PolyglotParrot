@@ -5,6 +5,7 @@
   
 
 <p align="center"> 
+  <i>Hi, I'm Rave!</i>
   <i>Visit what I’ve been coding lately</i>
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">Click Here</a>
   ↗
