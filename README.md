@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <i>Visit what I've been coding lately
-    <a href="[https://polyglotparrot.github.io/jump/](http://127.0.0.1:5500/reavn.html)" target="_blank" rel="noopener noreferrer">CLICK HERE</a>
+    <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">CLICK HERE</a>
   </i>
   ↗
 </p>
