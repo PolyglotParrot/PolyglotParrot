@@ -2,7 +2,7 @@
 
 ### About Me
 
-👋 Hi, I'm Rave! I’m a 2nd-year Information Technology student, currently learning full-stack development with a focus on machine learning and AI. I enjoy building projects that combine creativity and functionality, and I’m passionate about using technology to make a positive impact.
+👋 Hi, I'm Rave! I’m a 2nd-year Information Technology student, currently learning full-stack development with a focus on machine learning and AI.
 
 💻 Background: HTML, CSS, JavaScript, Java, Python  
 🌱 Currently learning: React, Node.js, MongoDB  
