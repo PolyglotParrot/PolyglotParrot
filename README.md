@@ -8,7 +8,6 @@
   ↗
 </p>
 
-Hi, I'm Rave! :D Currently learning full-stack development while exploring web and ML/AI.
 
 
 
