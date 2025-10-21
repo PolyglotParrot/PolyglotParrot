@@ -1,8 +1,9 @@
 
-![nostalgic](https://github.com/user-attachments/assets/da9e719d-1495-445d-bf8e-9fbd63b2eacf)
 
 
 
+
+![pusa with monitor](https://github.com/user-attachments/assets/f8c3a288-f569-4339-9508-9f536c351f9a)
 
 
 
