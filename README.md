@@ -18,7 +18,7 @@
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  <b>Visit what I’ve been coding lately:</b> <br>
+  <b>Visit what I’ve been coding lately:</b>
   <a href="https://polyglotparrot.github.io/jump/" 
      target="_blank" 
      rel="noopener noreferrer" 
