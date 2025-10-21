@@ -5,6 +5,18 @@
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a>
 </p>
 
+<p align="center">
+  <i>Check out what I’ve been coding lately:</i>
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a>
+</p>
+
+<p align="center">
+  <i>Take a look at my latest project:</i>
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a>
+</p>
+
+
+
 
 
 
