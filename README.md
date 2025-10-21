@@ -1,4 +1,3 @@
-![me](https://github.com/user-attachments/assets/5b7c93a5-3527-44e9-9a9d-a54eddc87fb1)
 
 
 
