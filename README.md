@@ -25,7 +25,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
   <b>Visit what I’ve been coding lately:</b> <br>
-  <a href="https://polyglotparrot.github.io/jump/" 
+  <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
      style="text-decoration:none; color:#1e90ff; font-weight:bold;">
