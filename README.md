@@ -1,5 +1,7 @@
 ![nostalgic](https://github.com/user-attachments/assets/fa6d24e8-8b19-4d5d-945b-f50401e56cc5)
 
+****
+
 <p align="center">
   👋 Hi, I'm Rave!
 </p>
@@ -7,8 +9,6 @@
 <p align="center">
   💻 Aspiring Full-Stack Developer | Exploring Web Development & ML/AI 🚀
 </p>
-
----
 
 ### About Me
 
