@@ -1,6 +1,7 @@
 
-![pusa with monitor](https://github.c![dalawang pusa](https://github.com/user-attachments/assets/69479c69-e18b-4d35-9222-f8b7c3a10d5c)
 
+
+![dalawang pusa](https://github.com/user-attachments/assets/fd35d314-8626-4117-8861-689fd2b5c7f6)
 
 <!-- <p align="center">
   <i>What I’ve been coding lately:</i>
