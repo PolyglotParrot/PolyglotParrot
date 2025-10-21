@@ -2,14 +2,13 @@
   <img src="https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb" alt="me" width="780" style="border-radius: 90%;">
 </p>
 
+**Project:**
+
 <p align="center">
   <i style="font-size:16px; color:#555;">Visit what I’ve been coding lately:</i>
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here </a>
   ↗
 </p>
-
-
-I’m a 2nd-year IT student and aspiring developer, building my skills in full-stack development and exploring machine learning and AI. Below are the technologies I’m familiar with and the ones I’m currently learning:
 
 **Tech Stacks:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
