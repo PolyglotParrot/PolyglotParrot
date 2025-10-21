@@ -4,7 +4,7 @@
   💻 Front-End Developer | Exploring Web Development & ML/AI
 </p>
 
-<p align="center"> <i> Visit my latest project: </i> <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">CLICK HERE</a> </p>
+<p align="center"> <i> Visit latest project: </i> <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">CLICK HERE</a> </p>
 
 ---
 
