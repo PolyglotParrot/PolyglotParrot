@@ -1,9 +1,7 @@
 
+![dalawang pusa](https://github.com/user-attachments/assets/b8e51c03-8d44-412b-8ab8-1d179885ce3e)
 
 
-
-
-![pusa with monitor](https://github.com/user-attachments/assets/f8c3a288-f569-4339-9508-9f536c351f9a)
 
 
 
