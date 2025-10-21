@@ -1,7 +1,4 @@
-
-![dalawang pusa](https://github.com/user-attachments/assets/b8e51c03-8d44-412b-8ab8-1d179885ce3e)
-
-
+![me](https://github.com/user-attachments/assets/253eda6f-4e6c-4e53-a5ca-e4d24218b764)
 
 
 
