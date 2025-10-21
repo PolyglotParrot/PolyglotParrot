@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hello_People-👋-brightgreen?style=for-the-badge&logo=github&animation=fade" alt="Hello People">
+  <img src="https://img.shields.io/badge/Hello_People...-👋-brightgreen?style=for-the-badge" alt="Hello People">
 </p>
+
 
 
 
