@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>What I’ve been coding lately:</i>
+  <i>see what I’ve been coding lately:</i>
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a>
 </p>
 
