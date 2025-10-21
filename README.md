@@ -6,7 +6,7 @@
 
 <p align="center">
   <i>
-    Visit latest personal project:
+   check out what I’ve been coding lately: REAVN
   </i>
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a>
 </p>
