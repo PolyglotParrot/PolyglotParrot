@@ -1,12 +1,10 @@
 ![nostalgic](https://github.com/user-attachments/assets/fa6d24e8-8b19-4d5d-945b-f50401e56cc5)
 
-
+<p align="center">
+  💻 Front-End Developer | Exploring Web Development & ML/AI
+</p>
 
 <p align="center"> <i> Visit what I’ve been coding lately: </i> <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">CLICK HERE</a> </p>
-
-<p align="center">
-  💻 Full-Stack Developer | Exploring Web Development & ML/AI
-</p>
 
 ---
 
