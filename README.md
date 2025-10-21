@@ -2,7 +2,7 @@
 
 ### About Me
 
-👋 Hi, I'm Rave! I’m a 2nd-year Information Technology student, currently learning full-stack development with a focus on machine learning and AI.
+👋 Hi, I'm Rave! I’m a 2nd-year Information Technology student at Bulacan State University, currently learning full-stack development with a focus on machine learning and AI.
 
 💻 Background: HTML, CSS, JavaScript, ReactJS, Java, Python  
 🌱 Currently learning: Node.js, MongoDB  
