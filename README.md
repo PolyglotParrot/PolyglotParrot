@@ -3,8 +3,7 @@
 </p>
 
 **Visit what I’ve been coding lately:**
-<p align="center">
-  
+<p align="left">
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
 </p>
 
