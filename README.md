@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d673e25-21dd-4af2-b09c-d8f11a4d6393" alt="nostalgic">
 </p>
