@@ -1,4 +1,5 @@
-![nostalgic](https://github.com/user-attachments/assets/fa6d24e8-8b19-4d5d-945b-f50401e56cc5)
+
+![me](https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb)
 
 <p align="center"> <i> Latest project: </i> <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a> </p>
 
