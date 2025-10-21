@@ -1,4 +1,5 @@
-![me](https://github.com/user-attachments/assets/253eda6f-4e6c-4e53-a5ca-e4d24218b764)
+
+![nostalgic](https://github.com/user-attachments/assets/ea8a681f-47bc-4153-aacf-b397bc21af62)
 
 <p align="center"> 
   <i>Visit what I've been coding lately
