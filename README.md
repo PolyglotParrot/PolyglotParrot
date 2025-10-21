@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb" 
        alt="me" 
-       width="780" 
+       width="600" 
        style="border-radius: 90%;">
 
   <b>Tech Stacks:</b> <br>
@@ -18,7 +18,7 @@
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  <b>Visit what I’ve been coding lately:</b>
+  <b>Visit what I’ve been coding lately:</b> <br>
   <a href="https://polyglotparrot.github.io/jump/" 
      target="_blank" 
      rel="noopener noreferrer" 
