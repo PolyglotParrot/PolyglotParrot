@@ -1,8 +1,5 @@
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fd35d314-8626-4117-8861-689fd2b5c7f6" alt="dalawang pusa">
-</p>
+![nostalgic](https://github.com/user-attachments/assets/5d673e25-21dd-4af2-b09c-d8f11a4d6393)
 
 
 <!-- <p align="center">
