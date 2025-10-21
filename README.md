@@ -1,6 +1,7 @@
 
+![me](https://github.com/user-attachments/assets/8784c837-aead-449f-8c80-d6fcda22afd0)
 
-![nostalgic](https://github.com/user-attachments/assets/32c3f327-9379-4476-80eb-1b0ad618de62)
+
 
 Hi, I'm Rave! :D Currently learning full-stack development while exploring web and ML/AI.
 
