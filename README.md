@@ -3,9 +3,10 @@
 </p> 
 
 <p align="center"> 
-  <i> visit what I’ve been coding lately:: </i> 
-  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a> 
+  <i>Visit what I’ve been coding lately — my latest project:</i><br>
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a><br>
 </p>
+
 
 
 
