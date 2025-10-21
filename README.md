@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center"> 
-  <i> here's what I’ve been coding lately: </i> 
+  <i> Visit what I’ve been coding lately: </i> 
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a> 
 </p>
 
