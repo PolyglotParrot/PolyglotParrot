@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-  <i>Take a look at what I’m currently working ony</i>
+  <i>Take a look at what I’m currently working on</i>
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">CLICK HERE</a>
   ↗
 </p>
