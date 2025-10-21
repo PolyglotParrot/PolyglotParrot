@@ -1,9 +1,9 @@
 ![me](https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb)
 
 <p align="center"> 
-  <i>Visit what I’ve been coding lately — my latest project:</i><br>
-  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a><br>
-  <i>A minimalist web project built with focus on design, interaction, and simplicity.</i>
+  <i>Visit what I’ve been coding lately — my latest project:</i>
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a>
+  ↗
 </p>
 
 
