@@ -1,30 +1,11 @@
 ![me](https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb)
 
-<p align="center" style="font-family: Arial, sans-serif; line-height: 1.6;">
-  <span style="font-style: italic; color: #555; font-size: 16px;">
-    SEE WHAT I’VE BEEN CODING LATELY:
-  </span><br>
-  <a 
-    href="https://polyglotparrot.github.io/jump/" 
-    target="_blank" 
-    rel="noopener noreferrer" 
-    style="
-      display: inline-block;
-      margin-top: 8px;
-      padding: 8px 20px;
-      background-color: #1e90ff;
-      color: #fff;
-      text-decoration: none;
-      font-weight: 600;
-      border-radius: 5px;
-      transition: background-color 0.3s;
-    "
-    onmouseover="this.style.backgroundColor='#0d6efd';" 
-    onmouseout="this.style.backgroundColor='#1e90ff';"
-  >
-    CLICK HERE
-  </a>
+<p align="center"> 
+  <i>Visit what I’ve been coding lately — my latest project:</i><br>
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a><br>
+  <i>A minimalist web project built with focus on design, interaction, and simplicity.</i>
 </p>
+
 
 
 ### About Me
