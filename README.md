@@ -2,7 +2,11 @@
   <img src="https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb" alt="me" width="780" style="border-radius: 90%;">
 </p>
 
-
+**visit what I’ve been coding lately:** <br>
+<p align="center">
+  
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
+</p>
 
 **Tech Stacks:** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
