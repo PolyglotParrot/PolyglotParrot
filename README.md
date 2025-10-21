@@ -1,6 +1,4 @@
-![me](https://github.com/user-attachments/assets/489c343b-062a-4a87-873f-aceb34e737d4)
-
-
+![nostalgic](https://github.com/user-attachments/assets/fa6d24e8-8b19-4d5d-945b-f50401e56cc5)
 
 
 
