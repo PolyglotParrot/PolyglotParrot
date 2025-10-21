@@ -6,7 +6,7 @@
 
 <p align="center">
   <i>
-   Here's what I’ve been coding lately:
+   here's what I’ve been coding lately:
   </i>
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a>
 </p>
