@@ -2,14 +2,6 @@
 
 ****
 
-<p align="center">
-  👋 Hi, I'm Rave!
-</p>
-
-<p align="center">
-  💻 Aspiring Full-Stack Developer | Exploring Web Development & ML/AI 🚀
-</p>
-
 ### About Me
 
 I am currently learning full-stack development while exploring machine learning and AI. I enjoy building projects that combine creativity and functionality, and I’m passionate about using technology to make a positive impact.
