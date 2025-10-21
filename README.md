@@ -2,6 +2,12 @@
   <img src="https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb" alt="me" width="850" style="border-radius: 90%;">
 </p>
 
+<p align="left"> 
+  <i>Visit what I’ve been coding lately</i>
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">Click Here</a>
+  ↗
+</p>
+
 **Tech Stacks:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
