@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>What I’ve been coding lately:</i>
-  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">[REAVN](https://polyglotparrot.github.io/jump/) ↗</a>
+  <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN ↗</a>
 </p>
 
 <p align="center">
