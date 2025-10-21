@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hi, I'm Raven! I am currently learning full-stack development while exploring machine learning and AI. I enjoy building projects that combine creativity and functionality, and I’m passionate about using technology to make a positive impact.
+Hi, I'm Raven! I am currently learning full-stack development while exploring machine learning and AI.
 
 - 🌱 Currently learning: HTML, CSS, JavaScript, React, Node.js, MongoDB
 - 💡 Interests: Web Development, Machine Learning, AI
