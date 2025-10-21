@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb" alt="me" width="780" style="border-radius: 90%;">
 </p>
 
-<p align="center" style="font-size:8px;">
+<p align="center" style="font-size:8px">
   Visit what I’ve been coding lately
   <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
   ↗
