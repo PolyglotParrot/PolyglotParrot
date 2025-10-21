@@ -10,25 +10,15 @@
 
 ### About Me
 
-Hi, I'm Raven! I am currently learning full-stack development while exploring machine learning and AI.
+Hi, I'm Rave! A 2nd-year IT student developer learning full-stack development while exploring machine learning and AI.
 
-## About Me
+### About Me
 
-Hi, I'm Raven! 👋  
-I have a background in **HTML, CSS, JavaScript, React.js, Java, and Python**. I am currently learning **MongoDB, Express.js, and Next.js** while exploring Machine Learning and AI.  
+💻 Background: HTML, CSS, JavaScript, ReactJS, Java, Python  
+🌱 Currently learning: Node.js, Express.js, MongoDB  
+💡 Interests: Full-Stack Development, ML & AI  
+⚡ Fun fact: I love experimenting with projects that solve real-world problems
 
-### 🌱 Currently Learning
-- MongoDB  
-- Express.js  
-- Next.js  
-
-### 💡 Interests
-- Web Development  
-- Machine Learning  
-- Artificial Intelligence  
-
-### ⚡ Fun Fact
-I love experimenting with projects that solve real-world problems and bring ideas to life.
 
 
 
