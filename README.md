@@ -2,7 +2,7 @@
 
 ![nostalgic](https://github.com/user-attachments/assets/32c3f327-9379-4476-80eb-1b0ad618de62)
 
-<p align="center"> <i> Visit what I’ve been coding lately: </i> <a href="https://polyglotparrot.github.io/jump/" target="_blank" rel="noopener noreferrer">REAVN</a> </p>
+Hi, I'm Ase! :D Full-stack software engineer with background in web and ML/AI. I deeply believe in tech for impact.
 
 
 
