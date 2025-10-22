@@ -34,7 +34,7 @@
      Click Here ↗
   </a>
 
-  <b>Contact:</b> <br>
+  <b>Contact:</b>
   <p align="left">
     <img src="https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </p>
