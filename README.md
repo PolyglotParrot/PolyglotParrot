@@ -26,6 +26,11 @@
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+  <b>Contact:</b> <br>
+  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+  Replies at UTC+8. I will get back to you within 48 hours.
+
   <b>See what I’ve been coding lately:</b> <br>
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
@@ -33,11 +38,6 @@
      style="text-decoration:none; color:#1e90ff; font-weight:bold;">
      Click Here ↗
   </a>
-
-  <b>Contact:</b> <br>
-  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
-  Replies at UTC+8. I will get back to you within 48 hours.
 
 </p>
 
