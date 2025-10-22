@@ -26,7 +26,7 @@
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  <b>Visit what I’ve been coding lately:</b> <br>
+  <b>See what I’ve been coding lately:</b> <br>
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
