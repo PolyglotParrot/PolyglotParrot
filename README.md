@@ -34,14 +34,10 @@
      Click Here ↗
   </a>
 
-  <b>Contact:</b>
-  <p align="left">
-    <img src="https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </p>
+  <b>Contact:</b> <br>
+  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   
-  <p align="left">
-    <i>Replies at UTC+8. I will get back to you within 48 hours.</i>
-  </p>
+  Replies at UTC+8. I will get back to you within 48 hours.
 
 </p>
 
