@@ -1,4 +1,4 @@
-<p align="center"> 
+
   ![background](https://github.com/user-attachments/assets/0ee65022-554b-4fa2-b1ca-81d2fb1b79c2)
 
 
@@ -37,6 +37,6 @@
      style="text-decoration:none; color:#1e90ff; font-weight:bold;">
      Click Here
   </a>
-</p>
+
 
 
