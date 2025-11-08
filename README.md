@@ -1,4 +1,3 @@
-
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb" 
        alt="me" 
@@ -27,6 +26,11 @@
   [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+  
+  <b>Contact:</b> <br>
+  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+  Replies at UTC+8. I will get back to you within 48 hours.
 
   See what I’ve been coding lately:
   <a href="http://tiny.cc/jm2u001" 
