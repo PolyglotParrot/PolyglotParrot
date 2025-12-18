@@ -27,18 +27,11 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
   
-  <b>Contact:</b> <br>
   ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   
-  Replies at UTC+8. I will get back to you within 48 hours.
+  Replies at UTC+8; view current work in progress: 
+  <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
 
-  What I’ve been coding lately:
-  <a href="http://tiny.cc/jm2u001" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     style="text-decoration:none; color:#1e90ff; font-weight:bold;">
-     Click Here
-  </a>
 </p>
 
 
