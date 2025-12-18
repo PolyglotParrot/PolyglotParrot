@@ -4,13 +4,6 @@
        width="800" 
        style="border-radius: 90%;">
 
-  Replies at UTC+8; view current work in progress:
-<a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
-
-
-  <br>
-  <br>
-
   <b>Tech Stack:</b> <br>
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -34,8 +27,11 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
   
+  <b>Contact:</b> <br>
+  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   
-  
+  Replies at UTC+8; view current work in progress:
+  <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
 
 </p>
 
