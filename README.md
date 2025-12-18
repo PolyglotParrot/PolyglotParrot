@@ -29,8 +29,8 @@
 
   <br><br>
 
-  Email: <a href="mailto:justinravencalangi@gmail.com" style="text-decoration:none; color:#D14836; font-weight:bold;">justinravencalangi@gmail.com</a><br>
-  Replies at <b>UTC+8</b> | View current work in progress: 
+  <a href="mailto:justinravencalangi@gmail.com" style="text-decoration:none; color:#D14836; font-weight:bold;">justinravencalangi@gmail.com</a><br>
+  Replies at UTC+8; view current work in progress: 
   <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
 
 
