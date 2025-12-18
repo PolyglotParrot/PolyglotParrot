@@ -29,15 +29,8 @@
 
   <br>
   
-  Replies at UTC+8. I will get back to you within 48 hours.
-
-  See what I’ve been coding lately:
-  <a href="http://tiny.cc/jm2u001" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     style="text-decoration:none; color:#1e90ff; font-weight:bold;">
-     Click Here
-  </a>
+  Replies at UTC+8; view current work in progress:
+  <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
 </p>
 
 
