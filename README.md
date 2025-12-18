@@ -21,19 +21,24 @@
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-  <b>Currently Exploring:</b> <br>
+  <b>Exploring Next:</b> <br>
   [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
   
   <b>Contact:</b> <br>
-  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=10)
-
-
+  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   
-  Replies at UTC+8; view current work in progress:
-  <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
+  Replies at UTC+8. I will get back to you within 48 hours.
 
+  What I’ve been coding lately:
+  <a href="http://tiny.cc/jm2u001" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     style="text-decoration:none; color:#1e90ff; font-weight:bold;">
+     Click Here
+  </a>
 </p>
 
 
