@@ -30,10 +30,9 @@
   <br>
   
  <b>Contact:</b>
-
- <span> justinravencalangi@gmail.com</span>
+ 
+  justinravencalangi@gmail.com
    
-  
   Replies at UTC+8. I will get back to you within 48 hours.
 
   See what I’ve been coding lately:
