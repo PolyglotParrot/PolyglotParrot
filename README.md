@@ -27,9 +27,8 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-  <br>
+  <br><br>
 
-  <b>Contact:</b> <br>
   
   Email: <a href="mailto:justinravencalangi@gmail.com" style="text-decoration:none; color:#D14836; font-weight:bold;">justinravencalangi@gmail.com</a><br><br>
   Replies at UTC+8; view current work in progress: 
