@@ -31,9 +31,8 @@
   
  <b>Contact:</b>
  
-  <a href="mailto:justinravencalangi@gmail.com" style="color: inherit; text-decoration: none;">
-  justinravencalangi@gmail.com
-</a>
+  [![Email](https://img.shields.io/badge/Gmail-justinravencalangi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:justinravencalangi@gmail.com)
+
 
    
   Replies at UTC+8. I will get back to you within 48 hours.
