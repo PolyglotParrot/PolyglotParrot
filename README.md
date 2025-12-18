@@ -26,7 +26,8 @@
   [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-  
+
+  <br>
   
   Replies at UTC+8; view current work in progress.
   <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
