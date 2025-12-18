@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
 
-  <br><br>
-
   <b>IDE & Tools:</b><br>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" height="28">
@@ -26,26 +24,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
 
-  <br><br>
-
   <b>Exploring Next:</b><br>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="28">
 
-  <br><br>
-
   <b>Contact:</b><br>
   <img src="https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?logo=gmail&logoColor=white" height="26">
 
-  <br><br>
-
   Replies at UTC+8. I will get back to you within 48 hours.
 
-  <br><br>
-
-  What I’ve been coding lately:<br>
+  What I’ve been coding lately:
   <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer"
      style="text-decoration:none; color:#1e90ff; font-weight:bold;">
      Click Here
