@@ -5,7 +5,7 @@
        width="800" 
        style="border-radius: 90%;">
 
-  <b>Tech Stack:</b><br>
+  <b>Tech Stack:</b>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" height="28">
