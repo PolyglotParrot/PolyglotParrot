@@ -32,12 +32,12 @@
   
   
 
-  Replies at UTC+8. I will get back to you within 48 hours. What I’ve been coding lately (in progress):
+  Replies at UTC+8; current work in progress can be found here.
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
      style="text-decoration:none; color:#1e90ff; font-weight:bold;">
-     Click Here
+     Click Me
   </a>
 </p>
 
