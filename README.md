@@ -28,10 +28,11 @@
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
   
   <b>Contact:</b> <br>
-  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  Email: <a href="mailto:justinravencalangi@gmail.com" style="text-decoration:none; color:#D14836; font-weight:bold;">justinravencalangi@gmail.com</a><br><br>
   
-  Replies at UTC+8; view current work in progress:
+  Replies at UTC+8; view current work in progress: 
   <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
+
 </p>
 
 
