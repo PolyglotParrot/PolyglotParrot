@@ -27,8 +27,11 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
   
-  <b>Contact:</b> <br>
-  ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ <b>Contact:</b><br>
+<a href="mailto:justinravencalangi@gmail.com">
+  justinravencalangi@gmail.com
+</a>
+
 
   <br>
   
