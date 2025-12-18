@@ -30,11 +30,9 @@
   <br>
   
  <b>Contact:</b>
-  <a href="mailto:justinravencalangi@gmail.com">
-    justinravencalangi@gmail.com
-  </a>
 
-  <br>
+ <span> justinravencalangi@gmail.com</span>
+   
   
   Replies at UTC+8. I will get back to you within 48 hours.
 
