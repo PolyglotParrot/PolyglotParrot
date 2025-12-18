@@ -4,8 +4,9 @@
        width="800" 
        style="border-radius: 90%;">
 
-  Replies at UTC+8; current work in progress:
-  <a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a> 
+  Replies at UTC+8; view current work in progress:
+<a href="http://tiny.cc/jm2u001" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#1e90ff; font-weight:bold;">Click Here</a>
+
 
   <br>
   <br>
