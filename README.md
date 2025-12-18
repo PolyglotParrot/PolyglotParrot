@@ -26,12 +26,13 @@
   [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-  
- <b>Contact:</b><br>
-<a href="mailto:justinravencalangi@gmail.com">
-  justinravencalangi@gmail.com
-</a>
 
+  <br>
+  
+ <b>Contact:</b>
+  <a href="mailto:justinravencalangi@gmail.com">
+    justinravencalangi@gmail.com
+  </a>
 
   <br>
   
