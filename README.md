@@ -32,7 +32,7 @@
   
   Replies at UTC+8. I'll get back to you within 48 hours.
 
-  Work in progress:
+  Working on:
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
