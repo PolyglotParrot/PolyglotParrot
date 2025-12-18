@@ -4,7 +4,7 @@
        width="800" 
        style="border-radius: 90%;">
 
-  What I've been coding latety (in progress):
+  What I've been coding lately (in progress):
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
