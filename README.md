@@ -34,7 +34,7 @@
   
   Replies at UTC+8. I'll get back to you within 48 hours.
 
-  Ongoing Project:
+  What I’ve been coding lately:
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
