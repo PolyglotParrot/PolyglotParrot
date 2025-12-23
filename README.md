@@ -39,7 +39,7 @@
      target="_blank" 
      rel="noopener noreferrer" 
      style="text-decoration:none; color:#1e90ff; font-weight:bold;">
-     Click Here
+     See Here
   </a>
 </p>
 
