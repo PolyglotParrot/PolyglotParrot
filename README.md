@@ -37,7 +37,7 @@
      target="_blank" 
      rel="noopener noreferrer" 
      style="color:#1e90ff; font-weight:bold;">
-     Click Here
+     Click Here↗
   </a>
 </p>
 
