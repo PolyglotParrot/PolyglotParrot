@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center"> <em>
   <img src="https://github.com/user-attachments/assets/87a5b73f-5b77-495c-86b3-9019deda61eb" 
        alt="me" 
        width="800" 
@@ -39,7 +39,7 @@
      style="color:#1e90ff; font-weight:bold;">
      View Here↗
   </a>
-</p>
+</em></p>
 
 
 
