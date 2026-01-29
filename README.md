@@ -30,7 +30,7 @@
   <b>Contact:</b> <br>
   ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-  What I’ve been coding lately:
+  working on:
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
