@@ -32,13 +32,9 @@
   
 
 
-  What I’ve been coding lately:
-  <a href="http://tiny.cc/jm2u001" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     style="text-decoration:none; color:#1e90ff; font-weight:bold;">
-     Click Here
-  </a>
+  ### What I’ve been coding lately:  
+  [![Click Here](https://media.giphy.com/media/3o7TKP5QqfJk3d3wI8/giphy.gif)](http://tiny.cc/jm2u001)
+
 </p>
 
 
