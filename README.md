@@ -32,12 +32,12 @@
 
   <br>
 
-  working on: 
+  what i've been coding lately: 
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
      style="color:#1e90ff; font-weight:bold;">
-     project↗
+     click here↗
   </a>
 </p>
 
