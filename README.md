@@ -32,7 +32,7 @@
 
   <br>
 
-  **Working on 🚧** [Check it out ↗](http://tiny.cc/jm2u001)
+  **Working on 🚧** [See it here ↗](http://tiny.cc/jm2u001)
 
 
 </p>
