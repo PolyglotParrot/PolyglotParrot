@@ -27,7 +27,7 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-  **Working on 🚧** [Check it out ↗](http://tiny.cc/jm2u001)
+  **Working on 🚧** [click here ↗](http://tiny.cc/jm2u001)
 
 </p>
 
