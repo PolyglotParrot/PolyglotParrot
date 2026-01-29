@@ -32,12 +32,12 @@
   
   replies at UTC+8. i will get back to you within 48 hours.
 
-  working on:
+  What I've been coding lately:
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
      style="color:#1e90ff; font-weight:bold;">
-     here↗
+     Here↗
   </a>
 </p>
 
