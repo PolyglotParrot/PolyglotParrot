@@ -29,8 +29,6 @@
   
   <b>Contact:</b> <br>
   ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
-  Replies at UTC+8. I will respond within 48 hours.
 
   Work in progress:
   <a href="http://tiny.cc/jm2u001" 
