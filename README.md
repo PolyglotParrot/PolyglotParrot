@@ -29,15 +29,13 @@
   
   <b>Contact:</b> <br>
   ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  
-  replies at UTC+8. i will get back to you within 48 hours.
 
-  What I've been coding lately:
+  What I've been coding lately: 
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
      style="color:#1e90ff; font-weight:bold;">
-     Here↗
+     Click Here↗
   </a>
 </p>
 
