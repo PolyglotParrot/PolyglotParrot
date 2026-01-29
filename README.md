@@ -30,12 +30,14 @@
   <b>Contact:</b> <br>
   ![Gmail](https://img.shields.io/badge/justinravencalangi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-  See what I've been coding lately: 
+  <br>
+
+  work in progress: 
   <a href="http://tiny.cc/jm2u001" 
      target="_blank" 
      rel="noopener noreferrer" 
      style="color:#1e90ff; font-weight:bold;">
-     Click Here↗
+     here↗
   </a>
 </p>
 
