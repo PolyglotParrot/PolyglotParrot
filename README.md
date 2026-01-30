@@ -32,14 +32,6 @@
   
   Replies at UTC+8. I will get back to you within 48 hours.
 
-  Work in progress—
-  <a href="http://tiny.cc/jm2u001" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     style="color:#1e90ff; font-weight:bold;">
-     RAEVN↗
-  </a>
-
   *Work in progress — [RAEVN](http://tiny.cc/jm2u001)*
 
 </p>
