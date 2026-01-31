@@ -4,8 +4,6 @@
        width="800" 
        style="border-radius: 90%;">
 
-  *Working on — [RAEVN](http://tiny.cc/jm2u001)*
-
   <b>Tech Stack:</b> <br>
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -34,7 +32,7 @@
   
   *Replies at UTC+8. I will get back to you within 48 hours.*
 
-  
+  *Working on — [RAEVN](http://tiny.cc/jm2u001)*
 
 </p>
 
