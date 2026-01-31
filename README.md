@@ -4,7 +4,7 @@
        width="800" 
        style="border-radius: 90%;">
 
-  *Work in progress — [RAEVN](http://tiny.cc/jm2u001)*
+  *Working on — [RAEVN](http://tiny.cc/jm2u001)*
 
   <b>Tech Stack:</b> <br>
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
