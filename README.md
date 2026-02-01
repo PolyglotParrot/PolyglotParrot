@@ -34,7 +34,7 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyglotParrot)](https://github.com/PolyglotParrot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkingParot)](https://github.com/walkingParot/github-readme-stats)
 
 
 
